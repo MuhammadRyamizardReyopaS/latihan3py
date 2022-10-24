@@ -5,7 +5,10 @@
 
 ### - Menjalankan tulisan "Hello" dilayar
 ### - Menampilkan tulisan "Saya sedang belajar python" dilayar
-![def](scspit/ss1.png)
+![ss1](scspit/ss1.png)
+
+![raja1]scspit/raja1.jpg
+
 # latihan3py
 
 ## LATIHAN 2
@@ -29,4 +32,3 @@
 #### - Membuat laman kerja baru dengan menekan (+) atau Create New Project
 
 
-[def]: scspit/ss1.png
