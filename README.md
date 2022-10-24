@@ -5,7 +5,7 @@
 
 ### - Menjalankan tulisan "Hello" dilayar
 ### - Menampilkan tulisan "Saya sedang belajar python" dilayar
-![ss1](scspit/ss1.png)
+![def]scspit/ss1.png
 # latihan3py
 
 ## LATIHAN 2
@@ -27,3 +27,6 @@
 #### - Jika belum terinstal, silahkan download di https://www.jetbrains.com/pycharm/
 #### - Setelah selesai instalisasi, buka *PyCharm*
 #### - Membuat laman kerja baru dengan menekan (+) atau Create New Project
+
+
+[def]: scspit/ss1.png
