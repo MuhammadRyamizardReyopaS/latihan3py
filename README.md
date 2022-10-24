@@ -5,7 +5,7 @@
 
 ### - Menjalankan tulisan "Hello" dilayar
 ### - Menampilkan tulisan "Saya sedang belajar python" dilayar
-![def]scspit/ss1.png
+![def](scspit/ss1.png)
 # latihan3py
 
 ## LATIHAN 2
