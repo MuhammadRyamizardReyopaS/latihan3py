@@ -31,4 +31,6 @@
 #### - Setelah selesai instalisasi, buka *PyCharm*
 #### - Membuat laman kerja baru dengan menekan (+) atau Create New Project
 
+### sekian terima kasih,, foto nyusul pak
+
 
