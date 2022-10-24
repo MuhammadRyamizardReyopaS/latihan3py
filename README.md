@@ -6,7 +6,6 @@
 ### - Menjalankan tulisan "Hello" dilayar
 ### - Menampilkan tulisan "Saya sedang belajar python" dilayar
 
-![ss1](scspit/ss1.png)
 # latihan3py
 
 ## LATIHAN 2
@@ -17,7 +16,6 @@
 ####   - Mencetak nilai variabel a dan b 
 ####   - Mencetak hasil penjumlahan a+b
 
-![ss2](scspit/ss2.PNG)
 ## LATIHAN 3
 
 ### - Menjalankan IDLE
