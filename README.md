@@ -7,7 +7,7 @@
 ### - Menampilkan tulisan "Saya sedang belajar python" dilayar
 ![ss1](scspit/ss1.png)
 
-![raja1]scspit/raja1.jpg
+![raja1](scspit/raja1.jpg)
 
 # latihan3py
 
