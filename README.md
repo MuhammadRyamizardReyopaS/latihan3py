@@ -2,13 +2,10 @@
 # PROSES / LANGKAH-LANGKAH PRATIKUM
 
 ## LATIHAN 1
-
+  
 ### - Menjalankan tulisan "Hello" dilayar
 ### - Menampilkan tulisan "Saya sedang belajar python" dilayar
 ![ss1](scspit/ss1.png)
-
-![raja1](scspit/raja1.jpg)
-
 # latihan3py
 
 ## LATIHAN 2
@@ -18,7 +15,7 @@
 ####   - Mendenifisikan variabel b dengan nilai 6
 ####   - Mencetak nilai variabel a dan b 
 ####   - Mencetak hasil penjumlahan a+b
-
+![ss2](scspit/ss2.png)
 ## LATIHAN 3
 
 ### - Menjalankan IDLE
